@@ -1,3 +1,3 @@
-# TheWingTheory
+# Base Website
 
-A website integrated with google maps to find local hot wing places near you. 
+This is a basic website designed around php and javascript
